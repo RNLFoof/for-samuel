@@ -1,0 +1,898 @@
+{
+  "tophat":
+  {
+    "sections": ["fabric","ribbon"],
+    "cost": 4,
+    "name": "Top Hat",
+    "excludefrom": [],
+    "slots": ["hat"]
+  },
+
+  "antenna":
+  {
+    "sections": ["tip","metal"],
+    "cost": 1,
+    "name": "Antenna",
+    "excludefrom": [],
+    "slots": ["hat"]
+  },
+
+  "wirehat":
+  {
+    "sections": ["top","suspension","ribbon","base"],
+    "cost": 3,
+    "name": "Wire Frame Hat",
+    "excludefrom": [],
+    "slots": ["hat"]
+  },
+
+  "son":
+  {
+    "sections": ["skin","leye","reye","teeth"],
+    "cost": 3,
+    "name": "Son",
+    "excludefrom": [],
+    "slots": ["hat"]
+  },
+
+  "bee":
+  {
+    "sections": ["hair"],
+    "cost": 1,
+    "name": "Beehive",
+    "excludefrom": [],
+    "slots": ["hat"]
+  },
+
+  "legs":
+  {
+    "sections": [],
+    "cost": 1,
+    "name": "BFDI Legs",
+    "excludefrom": [],
+    "slots": ["floor"]
+  },
+
+  "slices":
+  {
+    "sections": ["leye","reye"],
+    "cost": 1,
+    "name": "Eye Slices",
+    "excludefrom": ["hippowink","hippooooooooooo","hippoxD","hippoaaagggh","hipposinister"],
+    "slots": ["pupil"]
+  },
+
+  "tie":
+  {
+    "sections": ["top","bottom"],
+    "cost": 1,
+    "name": "Tie",
+    "excludefrom": [],
+    "slots": ["chin","hanging"]
+  },
+
+  "bowtie":
+  {
+    "sections": ["left","middle","right"],
+    "cost": 1,
+    "name": "Bowtie",
+    "excludefrom": [],
+    "slots": ["chin"]
+  },
+
+  "sunglasses":
+  {
+    "sections": ["plastic","shine"],
+    "cost": 2,
+    "name": "Sunglasses",
+    "excludefrom": ["hippowink"],
+    "slots": ["glasses"]
+  },
+
+  "nez":
+  {
+    "sections": ["left","right"],
+    "cost": 1,
+    "name": "Pince-Nez",
+    "excludefrom": ["hippoxD","hippoaaagggh"],
+    "slots": ["glasses"]
+  },
+
+  "shutter":
+  {
+    "sections": ["plastic"],
+    "cost": 3,
+    "name": "Shutter Shades",
+    "excludefrom": ["hippowink",""],
+    "slots": ["glasses"]
+  },
+
+  "kamina":
+  {
+    "sections": ["plastic","shine"],
+    "cost": 4,
+    "name": "Kamina Glasses",
+    "excludefrom": ["hippowink"],
+    "slots": ["glasses"]
+  },
+
+  "roflcapter":
+  {
+    "sections": ["lprop","rprop","rod","cap"],
+    "cost": 1,
+    "name": "Roflcapter",
+    "excludefrom": [],
+    "slots": ["hat"]
+  },
+
+  "chelm":
+  {
+    "sections": ["left","stripe","right"],
+    "cost": 1,
+    "name": "Crash Helmet",
+    "excludefrom": [],
+    "slots": ["hat"]
+  },
+
+  "tail":
+  {
+    "sections": ["base","stripes"],
+    "cost": 1,
+    "name": "Tail",
+    "excludefrom": [],
+    "slots": []
+  },
+
+  "horns":
+  {
+    "sections": ["left","right"],
+    "cost": 2,
+    "name": "Horns",
+    "excludefrom": [],
+    "slots": ["horn"]
+  },
+
+  "ping":
+  {
+    "sections": ["back","number"],
+    "cost": -1,
+    "name": "@­everyone",
+    "excludefrom": [],
+    "slots": ["item"]
+  },
+
+  "meme":
+  {
+    "sections": ["plastic","shine"],
+    "cost": 1,
+    "name": "Meme Shades",
+    "excludefrom": ["hippoxD"],
+    "slots": ["glasses"]
+  },
+
+  "irises":
+  {
+    "sections": ["leye","reye"],
+    "cost": 1,
+    "name": "Irises",
+    "excludefrom": ["hippowink","hippooooooooooo","hippoxD","hippoaaagggh","hipposinister"],
+    "slots": ["pupil"]
+  },
+
+  "fez":
+  {
+    "sections": ["fabric"],
+    "cost": 2,
+    "name": "Fez",
+    "excludefrom": [],
+    "slots": ["hat"]
+  },
+
+  "stache":
+  {
+    "sections": ["hair"],
+    "cost": 1,
+    "name": "Mustache",
+    "excludefrom": ["hippoxD"],
+    "slots": ["mustache"]
+  },
+
+  "zep":
+  {
+    "sections": ["white","black","ribbon","brim"],
+    "cost": 4,
+    "name": "Zeppeli's Hat",
+    "excludefrom": [],
+    "slots": ["hat"]
+  },
+
+  "santa":
+  {
+    "sections": ["hat","brim","pompom"],
+    "cost": -1,
+    "name": "Santa Hat",
+    "excludefrom": [],
+    "slots": ["hat"]
+  },
+
+  "pent":
+  {
+    "sections": ["pattern"],
+    "cost": 2,
+    "name": "Pentagram",
+    "excludefrom": [],
+    "slots": ["floor"]
+  },
+
+  "joint":
+  {
+    "sections": ["fire","pape","roach"],
+    "cost": 3,
+    "name": "Joint",
+    "excludefrom": ["hippoxD","hipposinister"],
+    "slots": ["smoke"]
+  },
+
+  "cloud":
+  {
+    "sections": ["cloud"],
+    "cost": 3,
+    "name": "Cloud",
+    "excludefrom": [],
+    "slots": ["floor"]
+  },
+
+  "gtooth":
+  {
+    "sections": ["tooth"],
+    "cost": 1,
+    "name": "Golden Tooth",
+    "excludefrom": ["hipposinister","hipposatan","hippoaaagggh","hippoxD","hippooooooooooo"],
+    "slots": ["mouth"]
+  },
+
+  "candy":
+  {
+    "sections": ["red","whie"],
+    "cost": 1,
+    "name": "Candy Cane",
+    "excludefrom": [],
+    "slots": ["cane"]
+  },
+
+  "cane":
+  {
+    "sections": ["cane","base"],
+    "cost": 1,
+    "name": "Cane",
+    "excludefrom": [],
+    "slots": ["cane"]
+  },
+
+  "long":
+  {
+    "sections": ["leye","reye"],
+    "cost": 2,
+    "name": "Long Eyes",
+    "excludefrom": ["hippowink","hippoxD","hippooooooooooo","hipposinister","hippoaaagggh"],
+    "slots": ["eye","glasses","pupil"]
+  },
+
+  "halo":
+  {
+    "sections": ["halo"],
+    "cost": 1,
+    "name": "Halo",
+    "excludefrom": [],
+    "slots": []
+  },
+
+  "dth":
+  {
+    "sections": ["skin"],
+    "cost": 1,
+    "name": "Dick the Head",
+    "excludefrom": [],
+    "slots": ["hat"]
+  },
+
+  "crown1":
+  {
+    "sections": ["gold"],
+    "cost": -1,
+    "name": "Crown",
+    "excludefrom": [],
+    "slots": ["hat"]
+  },
+
+  "crown2":
+  {
+    "sections": ["gold"],
+    "cost": -1,
+    "name": "Cooler Crown",
+    "excludefrom": [],
+    "slots": ["hat"]
+  },
+
+  "crown3":
+  {
+    "sections": ["gold","base"],
+    "cost": -1,
+    "name": "Way Cooler Crown",
+    "excludefrom": [],
+    "slots": ["hat"]
+  },
+
+  "crown4":
+  {
+    "sections": ["gold","base","topgem","gem1","gem2","gem3","gem4","gem5","gem6","gem7","gem8","gem9"],
+    "cost": -1,
+    "name": "Way Past Cool Crown",
+    "excludefrom": [],
+    "slots": ["hat"]
+  },
+
+  "gay":
+  {
+    "sections": ["g","a","y"],
+    "cost": 1,
+    "name": "Gay",
+    "excludefrom": [],
+    "slots": []
+  },
+
+  "edgy":
+  {
+    "sections": ["hair"],
+    "cost": 1,
+    "name": "Edgy Mustache",
+    "excludefrom": ["hippoxD","hipposinister"],
+    "slots": ["mustache"]
+  },
+
+  "gears":
+  {
+    "sections": ["small","big"],
+    "cost": 3,
+    "name": "Gears",
+    "excludefrom": [],
+    "slots": ["hat"]
+  },
+
+  "round":
+  {
+    "sections": ["skin"],
+    "cost": 0,
+    "name": "Rounded Face",
+    "excludefrom": ["hippohoppo","hippo","hippobold","hippowink","hippooooooooooo","hippohoppowhoppopoppo","hippoapproval","hipposatan"],
+    "slots": []
+  },
+
+  "roundsin":
+  {
+    "sections": ["skin"],
+    "cost": -1,
+    "name": "Rounded Face Sinister",
+    "excludefrom": ["hippohoppo","hippo","hippobold","hippowink","hippoxD","hippoaaagggh","hippooooooooooo","hippohoppowhoppopoppo","hippoapproval","hipposatan"],
+    "slots": []
+  },
+
+  "dice":
+  {
+    "sections": ["ldie","rdie","ldot","rdot"],
+    "cost": 4,
+    "name": "Fuzzy Dice",
+    "excludefrom": [],
+    "slots": ["hanging"]
+  },
+
+  "ban":
+  {
+    "sections": ["fabric"],
+    "cost": 2,
+    "name": "Bandana",
+    "excludefrom": [],
+    "slots": ["chin"]
+  },
+
+  "rears":
+  {
+    "sections": [],
+    "cost": 1,
+    "name": "Realistic Ears",
+    "excludefrom": [],
+    "slots": []
+  },
+
+  "engie":
+  {
+    "sections": [],
+    "cost": 5,
+    "name": "Dancing Engineer",
+    "excludefrom": [],
+    "slots": ["hat"]
+  },
+
+  "arm":
+  {
+    "sections": ["stage","rocket"],
+    "cost": 4,
+    "name": "The Armageddon",
+    "excludefrom": [],
+    "slots": ["floor"]
+  },
+
+  "stem":
+  {
+    "sections": ["stem","leaf"],
+    "cost": -1,
+    "name": "Stem",
+    "excludefrom": [],
+    "slots": ["hat"]
+  },
+
+  "monicle":
+  {
+    "sections": ["rim","lens","chain"],
+    "cost": -1,
+    "name": "Monicle",
+    "excludefrom": [],
+    "slots": ["glasses"]
+  },
+
+  "party":
+  {
+    "sections": ["hat","dots","ribbons"],
+    "cost": 1,
+    "name": "Party Hat",
+    "excludefrom": [],
+    "slots": ["hat"]
+  },
+
+  "glrec":
+  {
+    "sections": ["frames","temples","llens","rlens"],
+    "cost": 1,
+    "name": "Rectangular Glasses",
+    "excludefrom": [],
+    "slots": ["glasses"]
+  },
+
+  "glhex":
+  {
+    "sections": ["frames","temples","llens","rlens"],
+    "cost": 1,
+    "name": "Hexagonal Glasses",
+    "excludefrom": [],
+    "slots": ["glasses"]
+  },
+
+  "glround":
+  {
+    "sections": ["frames","temples","llens","rlens"],
+    "cost": 1,
+    "name": "Rounded Glasses",
+    "excludefrom": [],
+    "slots": ["glasses"]
+  },
+
+  "pipe":
+  {
+    "sections": ["wood","mouthpiece"],
+    "cost": 3,
+    "name": "Pipe",
+    "excludefrom": ["hippoxD","hipposinister"],
+    "slots": ["smoke"]
+  },
+
+  "baby":
+  {
+    "sections": ["larm","rarm"],
+    "cost": 4,
+    "name": "Baby Arms",
+    "excludefrom": [],
+    "slots": []
+  },
+
+  "hollow":
+  {
+    "sections": ["holes"],
+    "cost": 3,
+    "name": "Hollow Eyes",
+    "excludefrom": ["hippoxD","hippoaaagggh","hippooooooooooo","hipposinister","hippowink"],
+    "slots": ["eye","pupil"]
+  },
+
+  "nsmoke":
+  {
+    "sections": ["lpuff","rpuff","lstream","rstream"],
+    "cost": 4,
+    "name": "Nostril Smoke",
+    "excludefrom": ["hippoxD","hippoaaagggh","hippooooooooooo"],
+    "slots": []
+  },
+
+  "goatee":
+  {
+    "sections": ["goatee"],
+    "cost": 2,
+    "name": "Goatee",
+    "excludefrom": ["hippooooooooooo"],
+    "slots": ["lower lip"]
+  },
+
+  "sharp":
+  {
+    "sections": ["trow","brow"],
+    "cost": 3,
+    "name": "Sharp Teeth",
+    "excludefrom": ["hippooooooooooo","hippoxD","hippoaaagggh","hipposinister"],
+    "slots": ["mouth"]
+  },
+
+  "vib":
+  {
+    "sections": ["shaft","base"],
+    "cost": 4,
+    "name": "Vibrator",
+    "excludefrom": [],
+    "slots": []
+  },
+
+  "3d":
+  {
+    "sections": ["frames","llens","rlens"],
+    "cost": 3,
+    "name": "3D Glasses",
+    "excludefrom": [],
+    "slots": ["glasses"]
+  },
+
+  "kale":
+  {
+    "sections": ["lid","top","label","kale","bottom"],
+    "cost": 4,
+    "name": "Kale",
+    "excludefrom": [],
+    "slots": ["item"]
+  },
+
+  "afro":
+  {
+    "sections": ["hair"],
+    "cost": 3,
+    "name": "Afro",
+    "excludefrom": ["hippooooooooooo"],
+    "slots": ["hat"]
+  },
+
+  "tears":
+  {
+    "sections": ["lstream","rstream"],
+    "cost": 4,
+    "name": "Tears",
+    "excludefrom": ["hippooooooooooo","hippoxD","hippoaaagggh","hipposinister"],
+    "slots": ["cheek"]
+  },
+
+  "paint":
+  {
+    "sections": ["lline","rline"],
+    "cost": 3,
+    "name": "War Paint",
+    "excludefrom": ["hippooooooooooo","hippoxD","hippoaaagggh","hipposinister"],
+    "slots": ["cheek"]
+  },
+
+  "birth":
+  {
+    "sections": ["lhorn","rhorn"],
+    "cost": 4,
+    "name": "Birth Defects",
+    "excludefrom": ["hippooooooooooo"],
+    "slots": ["horn"]
+  },
+
+  "pumpkin":
+  {
+    "sections": ["skin","stem"],
+    "cost": -1,
+    "name": "Pumpkin",
+    "excludefrom": [],
+    "slots": ["hat"]
+  },
+
+  "shirt":
+  {
+    "sections": ["lcollar","rcollar"],
+    "cost": 1,
+    "name": "Shirt Collar",
+    "excludefrom": ["hippooooooooooo"],
+    "slots": []
+  },
+
+  "ribbon":
+  {
+    "sections": ["center","ltop","rtop","lbottom","rbottom"],
+    "cost": 4,
+    "name": "Ribbon Tie",
+    "excludefrom": [],
+    "slots": ["chin","hanging"]
+  },
+
+  "fedora":
+  {
+    "sections": ["top","ribbon","brim"],
+    "cost": 4,
+    "name": "Wide-Brim Fedora",
+    "excludefrom": [],
+    "slots": ["hat"]
+  },
+
+  "short":
+  {
+    "sections": ["hair"],
+    "cost": 3,
+    "name": "Short Beard",
+    "excludefrom": ["hippooooooooooo","hippoxD","hippoaaagggh","hipposinister"],
+    "slots": ["lower lip","mustache"]
+  },
+
+  "static":
+  {
+    "sections": [],
+    "cost": 2,
+    "name": "TV Static",
+    "excludefrom": [],
+    "slots": []
+  },
+
+  "elf":
+  {
+    "sections": ["lshoe","lfrills","lbell","rshoe","rfrills","rbell"],
+    "cost": -1,
+    "name": "Elf Shoes",
+    "excludefrom": [],
+    "slots": ["floor"]
+  },
+
+  "gun":
+  {
+    "sections": [],
+    "cost": 5,
+    "name": "Gun",
+    "excludefrom": ["hippohoppo"],
+    "slots": ["item"]
+  },
+
+  "box":
+  {
+    "sections": [],
+    "cost": -1,
+    "name": "Cardboard Box",
+    "excludefrom": [],
+    "slots": []
+  },
+
+  "d20":
+  {
+    "sections": ["ldice","rdice","lnumbers","rnumbers","l20","r20"],
+    "cost": 4,
+    "name": "d20 20",
+    "excludefrom": ["hippoaaagggh","hipposinister"],
+    "slots": ["eye","pupil"]
+  },
+
+  "hippogun":
+  {
+    "sections": [],
+    "cost": 5,
+    "name": "hippogun Eyes",
+    "excludefrom": ["hippoaaagggh","hipposinister"],
+    "slots": ["eye","glasses","pupil"]
+  },
+
+  "beard":
+  {
+    "sections": ["hair"],
+    "cost": 4,
+    "name": "Long Beard",
+    "excludefrom": ["hippooooooooooo","hippoxD","hippoaaagggh","hipposinister"],
+    "slots": ["lower lip","mustache","hanging","chin"]
+  },
+
+  "balls":
+  {
+    "sections": ["skin"],
+    "cost": 4,
+    "name": "Ballsack",
+    "excludefrom": ["hippooooooooooo"],
+    "slots": []
+  },
+
+  "sub":
+  {
+    "sections": ["skin","leye","reye","teeth"],
+    "cost": 2,
+    "name": "Sub",
+    "excludefrom": ["hippooooooooooo"],
+    "slots": ["floor"]
+  },
+
+  "shands":
+  {
+    "sections": ["fronthand","backhand"],
+    "cost": -1,
+    "name": "Skeleton Hands",
+    "excludefrom": [],
+    "slots": ["hand"]
+  },
+
+  "scream":
+  {
+    "sections": ["letters"],
+    "cost": 4,
+    "name": "Screaming",
+    "excludefrom": [],
+    "slots": []
+  },
+
+  "hurt":
+  {
+    "sections": ["hurtboxes"],
+    "cost": 4,
+    "name": "Hurtboxes",
+    "excludefrom": [],
+    "slots": []
+  },
+
+  "bsweat":
+  {
+    "sections": ["sweat"],
+    "cost": 4,
+    "name": "Blood Sweat",
+    "excludefrom": [],
+    "slots": []
+  },
+
+  "parms":
+  {
+    "sections": ["lcuff", "rcuff", "lsleeve", "rsleeve", "larm", "rarm"],
+    "cost": 4,
+    "name": "Popeye Arms",
+    "excludefrom": [],
+    "slots": []
+  },
+
+  "smooches":
+  {
+    "sections": ["smooches"],
+    "cost": -1,
+    "name": "Smooches",
+    "excludefrom": [],
+    "slots": []
+  },
+
+  "hygiene":
+  {
+    "sections": [],
+    "cost": 4,
+    "name": "Dental Hygiene",
+    "excludefrom": ["hippooooooooooo","hippoxD","hippoaaagggh","hipposinister"],
+    "slots": ["mouth"]
+  },
+
+  "pteeth":
+  {
+    "sections": ["keys"],
+    "cost": 3,
+    "name": "Piano Teeth",
+    "excludefrom": ["hippooooooooooo","hippoxD","hippoaaagggh","hipposinister"],
+    "slots": ["mouth"]
+  },
+
+  "etwitch":
+  {
+    "sections": ["eyelid"],
+    "cost": 4,
+    "name": "Eye Twitch",
+    "excludefrom": ["hippooooooooooo","hippoxD","hippoaaagggh","hipposinister"],
+    "slots": ["eyelid"]
+  },
+
+  "llegs":
+  {
+    "sections": [],
+    "cost": 2,
+    "name": "Lanky Legs",
+    "excludefrom":["hippooooooooooo"],
+    "slots": []
+  },
+  "larms":{ "sections": [] , "cost": 2 , "name": "Lanky Arms" , "excludefrom":["hippooooooooooo"] , "slots": [] },
+  "peyes":{ "sections": [] , "cost": 5 , "name": "ppixel Eyes" , "excludefrom":[] , "slots": [] },
+  "cursor":{ "sections": ["cursor"] , "cost": 1 , "name": "Cursor" , "excludefrom":[] , "slots": [] },
+  "house":{ "sections": [] , "cost": -1 , "name": "House (it's really far away)" , "excludefrom":[] , "slots": [] },
+  "fire":{ "sections": [] , "cost": 4 , "name": "Fire" , "excludefrom":[], "slots": [] },
+  "dom":{ "sections": ["skin","leye","reye","teeth"] , "cost": 2 , "name": "Dom" , "excludefrom":["hippooooooooooo"] , "slots": ["hat"] },
+
+  "joke":
+  {
+    "sections": ["face", "background", "lines"],
+    "cost": 1,
+    "name": "Inside Joke That I Don't Get",
+    "excludefrom": [],
+    "slots": []
+  },
+
+  "wink":
+  {
+    "sections": ["skin"],
+    "cost": 4,
+    "name": "Wink",
+    "excludefrom": [],
+    "slots": ["eyelid"]
+  },
+
+  "eyes":
+  {
+    "sections": ["leye", "reye"],
+    "cost": -1,
+    "name": "Eyes",
+    "excludefrom": [],
+    "slots": ["eye"]
+  },
+
+  "pupils":
+  {
+    "sections": ["lpupil", "rpupil"],
+    "cost": -1,
+    "name": "Pupils",
+    "excludefrom": [],
+    "slots": ["pupil"]
+  },
+
+  "nose":
+  {
+    "sections": ["frontnostril", "backnostril"],
+    "cost": -1,
+    "name": "Nose",
+    "excludefrom": [],
+    "slots": ["nose"]
+  },
+
+  "ears":
+  {
+    "sections": ["backear", "frontear"],
+    "cost": -1,
+    "name": "Ears",
+    "excludefrom": [],
+    "slots": ["ears"]
+  },
+
+  "eyebrows":
+  {
+    "sections": [],
+    "cost": -1,
+    "name": "Eyebrows",
+    "excludefrom": [],
+    "slots": ["eyebrow"]
+  },
+
+  "head":
+  {
+    "sections": ["skin"],
+    "cost": -1,
+    "name": "Head",
+    "excludefrom": [],
+    "slots": ["head"]
+  },
+
+  "mouth":
+  {
+    "sections": ["teeth"],
+    "cost": -1,
+    "name": "Mouth",
+    "excludefrom": [],
+    "slots": ["teeth"]
+  }
+}

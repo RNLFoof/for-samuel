@@ -1,0 +1,4 @@
+{
+  "Quotes":"he said she said",
+  "Message References": "How you pass a specific message to the bot. In order of most to least prioritized:\n\n-No input, which will pick the most recent message.\n-An ID of a message in the same channel. (You'll need to enable developer mode. User Settings -> Appearance -> Developer Mode)\n-A link to a message in the same server.\n**The rest of the methods can only go back 50 messages.**\n-A user mention, which will pick the last message by that user.\n-A number of messages to ascend.\n-A set of ^s, pointing to the message.\n-Some content of the message. Case sensitive > insensitive. Exact match > starting with input > containing the input anywhere. Underscores can be used instead of spaces."
+}
